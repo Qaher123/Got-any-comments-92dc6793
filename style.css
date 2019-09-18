@@ -1,0 +1,37 @@
+/*all <h3> elements. */
+h3{
+	font-size: 130%;
+}
+#example1 {
+  border-radius: 25px;
+  border: 2px solid black;
+}
+#example1 {
+	font-size: 130%;
+}
+#example1{
+	width: 20%;
+}
+#example2 {
+	border-radius: 25px;
+}
+#example2 {
+	font-size:130%
+}
+#example2 {
+	width: 20%;
+}
+html {
+	background-color: skyblue;
+}
+.red-input:focus{
+color: red;
+background-color: blue;
+}
+textarea {
+	font-size: 200%;
+}
+#example3 {
+	border-color: red;
+	border-width: 8px
+}
